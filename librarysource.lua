@@ -1,6 +1,4 @@
-local lib = {}
-
-function lib:initLibrary()
+function initLibrary()
     local folderName = "epic config folder"
 
 
