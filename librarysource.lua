@@ -1,6 +1,7 @@
 --[[
 Yun Founders: flash#9999, loris#9547, worldwide#0001 , Saul Goodman#2345
-Yun Devs: zomb#7741, nives#0001, loot#1337, 
+Yun Devs: zomb#7741, nives#0001, loot#1337
+Special Thanks To: Qw#1549
 --]]
 function initLibrary()
     local folderName = "epic config folder"
