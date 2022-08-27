@@ -3639,4 +3639,3 @@ function lib:initLibrary()
 
     return library
 end
-return lib
